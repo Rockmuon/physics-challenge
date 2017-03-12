@@ -1,4 +1,4 @@
-# Jackson 3.1
+# Jackson 3.1 Potential of Concentric Spheres
 ## Header 2
 ### Header 3
 
@@ -12,8 +12,5 @@
 
 [Link](url) and ![Image](src)
 
-If you want to embed images, this is how you do it:
-
 ![3.1a1](https://github.com/Rockmuon/physics-challenge/blob/master/3.1a1.jpg)
 
-![test](https://octodex.github.com/images/yaktocat.png)
