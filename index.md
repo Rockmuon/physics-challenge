@@ -1,4 +1,4 @@
-# Jackson 3.1 Potential of Concentric Spheres
+# 3.1 Potential of Concentric Spheres
 ## Header 2
 ### Header 3
 
@@ -14,3 +14,5 @@
 
 ![3.1a1](https://github.com/Rockmuon/physics-challenge/blob/master/3.1a1.jpg)
 
+**Bold** and _Italic_ and `Code` text
+![3.1a1](https://octodex.github.com/images/yaktocat.png)
