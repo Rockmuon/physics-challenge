@@ -14,3 +14,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+If you want to embed images, this is how you do it:
+
+![3.1a1](https://github.com/Rockmuon/physics-challenge/3.1a1.png)
