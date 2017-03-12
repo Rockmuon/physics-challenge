@@ -1,7 +1,4 @@
-# header
-Syntax highlighted code block
-
-# Header 1
+# Jackson 3.1
 ## Header 2
 ### Header 3
 
@@ -17,4 +14,4 @@ Syntax highlighted code block
 
 If you want to embed images, this is how you do it:
 
-![3.1a1](https://github.com/Rockmuon/physics-challenge/3.1a1.png)
+![3.1a1](https://github.com/Rockmuon/physics-challenge/3.1a1.jpg)
