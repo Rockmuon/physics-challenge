@@ -14,6 +14,6 @@
 
 If you want to embed images, this is how you do it:
 
-![3.1a1](https://github.com/Rockmuon/physics-challenge/3.1a1.jpg)
+![3.1a1](https://github.com/Rockmuon/physics-challenge/blob/master/3.1a1.jpg)
 
 ![test](https://octodex.github.com/images/yaktocat.png)
